@@ -16,9 +16,12 @@ export default function Home() {
         <meta name="theme-color" content="#ffffff" />
       </Head>
 
-      <Link href="http://www.officeiris.com/plof-01.html">
-        <Image src="plof_01.jpg" width={900} height={600} />
+      <div className="pinko_box">
+        <Link href="http://www.officeiris.com/plof-01.html">
+          <img src="/plof_01.jpg" width="400" height="800" />
+
         </Link>
+      </div>
     </div>
   )
 }
