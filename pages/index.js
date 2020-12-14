@@ -17,7 +17,7 @@ export default function Home() {
       </Head>
 
       <Link href="http://www.officeiris.com/plof-01.html">
-        <Image src="plof_01.jpg" width={500} height={500} />
+        <Image src="plof_01.jpg" width={900} height={600} />
         </Link>
     </div>
   )
